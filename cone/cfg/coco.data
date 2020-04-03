@@ -1,0 +1,6 @@
+classes= 4
+train = C:\Users\Admin\Downloads\data\data\data\train.txt
+valid = C:\Users\Admin\Downloads\data\data\data\test.txt
+names = C:\Users\Admin\Desktop\cone\data\coco.names
+backup=C:\Users\Admin\Downloads\data\data\data\backup
+eval=coco
